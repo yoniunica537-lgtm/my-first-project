@@ -1,0 +1,9 @@
+[DEFAULT]
+api = gen-lang-client-0503678608
+model = gpt-3.5-turbo
+max_tokens = 150
+temperature = 0.7
+width = 80
+number = 1
+image_size = medium
+
